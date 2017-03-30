@@ -1,0 +1,10 @@
+I/O time: 433
+preprocessing time: 343
+fTime1: 1679 ms
+fTime2: 3146 ms
+fTime3: 120 ms
+fTime4: 99 ms
+fTime5: 3 ms
+GA time : 35843 ms
+fTime6: 10 ms
+total execution time: 41683 ms
